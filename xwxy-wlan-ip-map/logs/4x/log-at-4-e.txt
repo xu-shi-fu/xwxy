@@ -1,0 +1,139 @@
+# at 4-e
+
+
+xukun@ubuntu-Inspiron-1545:~/script/ping-ip-list-tests$ ./ping-ip*
+2026年 05月 21日 星期四 16:31:32 CST
+[sudo] xukun 的密码： 
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_seq=1 ttl=64 time=1.20 ms
+64 bytes from 192.168.0.1: icmp_seq=2 ttl=64 time=1.45 ms
+64 bytes from 192.168.0.1: icmp_seq=3 ttl=64 time=1.09 ms
+64 bytes from 192.168.0.1: icmp_seq=4 ttl=64 time=1.09 ms
+64 bytes from 192.168.0.1: icmp_seq=5 ttl=64 time=1.09 ms
+
+--- 192.168.0.1 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 1.085/1.181/1.445/0.138 ms
+PING 192.168.0.2 (192.168.0.2) 56(84) bytes of data.
+64 bytes from 192.168.0.2: icmp_seq=1 ttl=64 time=2.42 ms
+64 bytes from 192.168.0.2: icmp_seq=2 ttl=64 time=1.25 ms
+64 bytes from 192.168.0.2: icmp_seq=3 ttl=64 time=1.10 ms
+64 bytes from 192.168.0.2: icmp_seq=4 ttl=64 time=1.09 ms
+64 bytes from 192.168.0.2: icmp_seq=5 ttl=64 time=1.10 ms
+
+--- 192.168.0.2 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 1.087/1.390/2.415/0.516 ms
+PING 192.168.0.3 (192.168.0.3) 56(84) bytes of data.
+64 bytes from 192.168.0.3: icmp_seq=1 ttl=64 time=2.41 ms
+64 bytes from 192.168.0.3: icmp_seq=2 ttl=64 time=1.21 ms
+64 bytes from 192.168.0.3: icmp_seq=3 ttl=64 time=1.10 ms
+64 bytes from 192.168.0.3: icmp_seq=4 ttl=64 time=1.09 ms
+64 bytes from 192.168.0.3: icmp_seq=5 ttl=64 time=1.20 ms
+
+--- 192.168.0.3 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 1.088/1.401/2.407/0.505 ms
+PING 192.168.0.4 (192.168.0.4) 56(84) bytes of data.
+64 bytes from 192.168.0.4: icmp_seq=1 ttl=64 time=1.23 ms
+64 bytes from 192.168.0.4: icmp_seq=2 ttl=64 time=0.539 ms
+64 bytes from 192.168.0.4: icmp_seq=3 ttl=64 time=0.622 ms
+64 bytes from 192.168.0.4: icmp_seq=4 ttl=64 time=0.541 ms
+64 bytes from 192.168.0.4: icmp_seq=5 ttl=64 time=0.545 ms
+
+--- 192.168.0.4 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4109ms
+rtt min/avg/max/mdev = 0.539/0.694/1.225/0.267 ms
+PING 192.168.0.5 (192.168.0.5) 56(84) bytes of data.
+64 bytes from 192.168.0.5: icmp_seq=1 ttl=64 time=2.49 ms
+64 bytes from 192.168.0.5: icmp_seq=2 ttl=64 time=1.07 ms
+64 bytes from 192.168.0.5: icmp_seq=3 ttl=64 time=1.25 ms
+64 bytes from 192.168.0.5: icmp_seq=4 ttl=64 time=1.09 ms
+64 bytes from 192.168.0.5: icmp_seq=5 ttl=64 time=1.24 ms
+
+--- 192.168.0.5 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 1.074/1.427/2.487/0.534 ms
+PING 192.168.0.6 (192.168.0.6) 56(84) bytes of data.
+64 bytes from 192.168.0.6: icmp_seq=1 ttl=64 time=2.44 ms
+64 bytes from 192.168.0.6: icmp_seq=2 ttl=64 time=1.09 ms
+64 bytes from 192.168.0.6: icmp_seq=3 ttl=64 time=1.27 ms
+64 bytes from 192.168.0.6: icmp_seq=4 ttl=64 time=1.28 ms
+64 bytes from 192.168.0.6: icmp_seq=5 ttl=64 time=1.24 ms
+
+--- 192.168.0.6 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 1.094/1.464/2.439/0.492 ms
+PING 192.168.0.7 (192.168.0.7) 56(84) bytes of data.
+64 bytes from 192.168.0.7: icmp_seq=1 ttl=64 time=2.51 ms
+64 bytes from 192.168.0.7: icmp_seq=2 ttl=64 time=1.25 ms
+64 bytes from 192.168.0.7: icmp_seq=3 ttl=64 time=1.10 ms
+64 bytes from 192.168.0.7: icmp_seq=4 ttl=64 time=1.21 ms
+64 bytes from 192.168.0.7: icmp_seq=5 ttl=64 time=1.27 ms
+
+--- 192.168.0.7 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 1.099/1.468/2.514/0.526 ms
+PING 192.168.0.11 (192.168.0.11) 56(84) bytes of data.
+64 bytes from 192.168.0.11: icmp_seq=1 ttl=64 time=2.82 ms
+64 bytes from 192.168.0.11: icmp_seq=2 ttl=64 time=1.69 ms
+64 bytes from 192.168.0.11: icmp_seq=3 ttl=64 time=1.81 ms
+64 bytes from 192.168.0.11: icmp_seq=4 ttl=64 time=1.67 ms
+64 bytes from 192.168.0.11: icmp_seq=5 ttl=64 time=1.48 ms
+
+--- 192.168.0.11 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 1.476/1.894/2.822/0.476 ms
+PING 192.168.0.14 (192.168.0.14) 56(84) bytes of data.
+64 bytes from 192.168.0.14: icmp_seq=1 ttl=64 time=2.89 ms
+64 bytes from 192.168.0.14: icmp_seq=2 ttl=64 time=1.48 ms
+64 bytes from 192.168.0.14: icmp_seq=3 ttl=64 time=1.36 ms
+64 bytes from 192.168.0.14: icmp_seq=4 ttl=64 time=2.65 ms
+64 bytes from 192.168.0.14: icmp_seq=5 ttl=64 time=2.12 ms
+
+--- 192.168.0.14 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 1.362/2.099/2.890/0.609 ms
+PING 192.168.0.15 (192.168.0.15) 56(84) bytes of data.
+64 bytes from 192.168.0.15: icmp_seq=1 ttl=64 time=2.97 ms
+64 bytes from 192.168.0.15: icmp_seq=2 ttl=64 time=1.49 ms
+64 bytes from 192.168.0.15: icmp_seq=3 ttl=64 time=2.13 ms
+64 bytes from 192.168.0.15: icmp_seq=4 ttl=64 time=1.59 ms
+64 bytes from 192.168.0.15: icmp_seq=5 ttl=64 time=1.49 ms
+
+--- 192.168.0.15 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 1.486/1.934/2.973/0.571 ms
+PING 192.168.0.16 (192.168.0.16) 56(84) bytes of data.
+64 bytes from 192.168.0.16: icmp_seq=1 ttl=64 time=3.11 ms
+64 bytes from 192.168.0.16: icmp_seq=2 ttl=64 time=1.56 ms
+64 bytes from 192.168.0.16: icmp_seq=3 ttl=64 time=1.53 ms
+64 bytes from 192.168.0.16: icmp_seq=4 ttl=64 time=1.34 ms
+64 bytes from 192.168.0.16: icmp_seq=5 ttl=64 time=1.68 ms
+
+--- 192.168.0.16 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4003ms
+rtt min/avg/max/mdev = 1.339/1.843/3.108/0.641 ms
+PING 192.168.0.17 (192.168.0.17) 56(84) bytes of data.
+64 bytes from 192.168.0.17: icmp_seq=1 ttl=64 time=2.79 ms
+64 bytes from 192.168.0.17: icmp_seq=2 ttl=64 time=9.99 ms
+64 bytes from 192.168.0.17: icmp_seq=3 ttl=64 time=1.44 ms
+64 bytes from 192.168.0.17: icmp_seq=4 ttl=64 time=1.35 ms
+64 bytes from 192.168.0.17: icmp_seq=5 ttl=64 time=1.51 ms
+
+--- 192.168.0.17 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 1.346/3.417/9.991/3.329 ms
+PING 192.168.0.18 (192.168.0.18) 56(84) bytes of data.
+64 bytes from 192.168.0.18: icmp_seq=1 ttl=64 time=2.75 ms
+64 bytes from 192.168.0.18: icmp_seq=2 ttl=64 time=1.32 ms
+64 bytes from 192.168.0.18: icmp_seq=3 ttl=64 time=1.48 ms
+64 bytes from 192.168.0.18: icmp_seq=4 ttl=64 time=1.46 ms
+64 bytes from 192.168.0.18: icmp_seq=5 ttl=64 time=1.48 ms
+
+--- 192.168.0.18 ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 1.318/1.697/2.752/0.530 ms
+2026年 05月 21日 星期四 16:32:32 CST
+
+xukun@ubuntu-Inspiron-1545:~/script/ping-ip-list-tests$ 
