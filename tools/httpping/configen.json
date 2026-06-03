@@ -1,0 +1,45 @@
+{
+    "configen": {
+        "version": "4",
+        "sources": [
+            {
+                "id": "main-client",
+                "path": "app/client",
+                "r": true
+            },
+            {
+                "id": "main-server",
+                "path": "app/server",
+                "r": true
+            },
+            {
+                "id": "test",
+                "path": "src/test/golang",
+                "r": true
+            }
+        ],
+        "destinations": [
+            {
+                "id": "main-client",
+                "path": "gen/main4httppingclient",
+                "sources": [
+                    "main-client"
+                ]
+            },
+            {
+                "id": "main-server",
+                "path": "gen/main4httppingserver",
+                "sources": [
+                    "main-server"
+                ]
+            },
+            {
+                "id": "test",
+                "path": "gen/test4httpping",
+                "sources": [
+                    "test"
+                ]
+            }
+        ]
+    }
+}
